@@ -3,8 +3,8 @@
   "name": "portfolio",
   "version": "0.1.0",
 	"private": true,
-	"homepage": "https://nir099.github.io/zy-cy",
-	"dependencies": {
+  "homepage": "https://ChameeraD.github.io/portfolio/",
+  "dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
 		"react-dom": "^16.8.3",
