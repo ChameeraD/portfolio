@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+/*import React, { Component } from 'react'
 
 export default class Projects extends Component {
   render() {
@@ -114,4 +114,4 @@ export default class Projects extends Component {
       </div>
     )
   }
-}
+}*/

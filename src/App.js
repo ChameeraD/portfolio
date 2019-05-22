@@ -6,7 +6,7 @@ import About from './components/about'
 import Timeline from './components/timeline'
 import Skills from './components/skills'
 import Contact from './components/contact'
-import Projects from './components/projects'
+//import Projects from './components/projects'
 class App extends Component {
   render() {
     return (
